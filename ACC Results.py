@@ -9,6 +9,7 @@ import _datetime as data
 
 # all presses path
 myPC = "\\\\KRUK3\\c$\\"
+myPC = "\\\\KRUK3\\c$\\"
 ora1 = "\\\\ora-1\\s$\\Indigo\\CnA\\Statistics\\"
 ora0 = "\\\\Ora-2_2\\s$\\Indigo\\CnA\\Statistics\\"
 ora2_2 = "\\\\Ora-2_2\\s$\\Indigo\\CnA\\Statistics\\"
